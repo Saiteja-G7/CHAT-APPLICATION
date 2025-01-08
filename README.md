@@ -66,7 +66,8 @@ The app removes the client from the list and updates the total users.
 #  OUTPUT
 
 
-
+![Output 2](https://github.com/user-attachments/assets/9c221a27-2d17-4fdd-a6a2-70f41855572f)
+![Output 1](https://github.com/user-attachments/assets/cc703e38-76fd-4888-bc3d-1237b1f52bfa)
 
 
 
